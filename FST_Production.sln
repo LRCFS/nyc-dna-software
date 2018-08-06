@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FST_WindowsService", "FST_WindowsService\FST_WindowsService\FST_WindowsService.csproj", "{F9E4E9DD-18F0-407D-8769-B605CC17AD8C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSTServiceConsoleHost", "FSTServiceConsoleHost\FSTServiceConsoleHost.csproj", "{C6377B4B-F615-49F2-874B-3C0E1863982D}"
@@ -62,5 +64,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FD7CE66-49E2-4591-9E1D-651F02436EE1}
 	EndGlobalSection
 EndGlobal
