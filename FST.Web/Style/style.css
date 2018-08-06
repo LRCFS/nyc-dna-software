@@ -1,3 +1,26 @@
+/*LRCFS Roy fixes */
+
+/*File upload spacing / overly fixed for frmUpload.aspx */
+#txtFileUnknownInputText, #txtFileSuspectInputText{
+    display: none;
+}
+
+#ctl00_MainContentHolder_txtFileSuspectInput, #ctl00_MainContentHolder_txtFileUnknownInput{
+    width: 415px !important;
+}
+
+/*quick fix to push admin menu to top of page to fix hover of first item automatically brining up the sub menu */
+.SubMenu {
+	top: 0px;
+}
+
+/*Hide "browse" buttons that don't work*/
+#Img1, #Img9{
+	display: none;
+}
+
+/* END LRCFS Roy fixes */
+
 .whiteText {
 	font-family:  Verdana, Arial, Helvetica, sans-serif;
 	font-size: 11px;
