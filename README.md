@@ -1,5 +1,6 @@
 
 # Leverhulme Research Centre for Forensic Science Contribution
+[![DOI](https://zenodo.org/badge/143743850.svg)](https://zenodo.org/badge/latestdoi/143743850)
 
 The Leverhulme Research Centre for Forensic Science ([LRCFS](http://www.dundee.ac.uk/leverhulme)) based at the University of Dundee is a research centre trying to push the boundaries of Forensic Science. We have made minor changes to the FST framework and in-built hardcoded variables purely for the purposes of making a portable and working version. **No changes** have been made to the underlying algorithms or functionality of the tool.
 
